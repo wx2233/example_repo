@@ -2,13 +2,7 @@
 title: "Simple Document"
 author: "Weijia Xiong"
 date: 2019-09-12
-output: 
-  
-  html_document:
-    toc: true
-    toc_float: true
-  pdf_document:
-    toc: true
+output: github_document
 ---
 
 I'm an R Markdown document! 
